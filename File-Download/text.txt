@@ -1,0 +1,1 @@
+ download a file via HTTPS from a public URL and save it to the SPIFFS on an ESP8266
