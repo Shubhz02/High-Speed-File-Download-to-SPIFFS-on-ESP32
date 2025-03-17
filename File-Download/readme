@@ -1,0 +1,5 @@
+High-Speed File Download to SPIFFS on ESP32
+
+Develop a firmware application for the ESP32 Dev Kit that downloads a file via HTTPS
+from a public URL and writes it to SPIFFS 
+
